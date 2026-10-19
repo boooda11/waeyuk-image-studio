@@ -66,7 +66,7 @@ bright cheerful daylight, colorful background, indoor room
 ```
 
 - Midjourney يضيف: `--ar 1:1 --style raw`
-- Flux عبر Cloudflare: برومبت موجب فقط؛ 4 خطوات كافية.
+- Flux عبر Cloudflare: برومبت موجب فقط، ويكفي.
 
 ## قواعد الإنتاج الجماعي (سلسلة متسقة)
 - العناصر (1, 2, 3, 7) بقى نفس صياغة الكلمات بالحرف — غيّر بس POSTURE / SYMBOL / COLOR / PALETTE بين الصور
