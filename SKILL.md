@@ -93,7 +93,7 @@ bright cheerful daylight, colorful background, indoor room
 الطريقة القياسية: Cloudflare Workers AI — `@cf/black-forest-labs/flux-1-schnell`
 - سكربت جاهز بدون توكن مقدّس: `tools/generate_images.py`
   `CLOUDFLARE_ACCOUNT_ID=... CLOUDFLARE_API_TOKEN=... python3 tools/generate_images.py --name my-tool --prompt "..." --outdir out/`
-- الإندبوينت: `https://api.cloudflare.com/client/v4/accounts/{ACCOUNT_ID}/ai/run/@cf/black-forest-labs/flux-1-schnell`
+- الإندبوينت: `https://api.cloudflare.com/client/v4/accounts/{ACCOUNT_ID}/ai/run/@cf/black-forest-labs/flux-1-schnell` (بإعداداته الافتراضية)
 - **الأمان**: التوكن دايمًا من متغير بيئة — ممنوع كتابته في أي ملف أو لوج أو رد
 
 ## خط سير العمل لمفهوم جديد

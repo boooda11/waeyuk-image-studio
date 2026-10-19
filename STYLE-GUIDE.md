@@ -1,7 +1,7 @@
 # STYLE-GUIDE — الطراز الهولوجرامي (Holographic Glass)
 
 > النمط البصري الرسمي لصور الأدوات والاختبارات النفسية في منصة وعيك (waeyuk.com).
-> اكتُشف وطُوّر من 43 صورة إنتاجية فعلية، ونُقّح عبر فحص بصري (vision QA).
+> اكتُشف وطُوّر من 41 برومبت إنتاجي فعلًا، ونُقّح عبر فحص بصري (Vision QA).
 
 ---
 
@@ -107,7 +107,7 @@ bright cheerful daylight, colorful background, indoor room
 
 ## 6. مواصفات المعالجة والتصدير
 
-- الموديل الأصلي: `@cf/black-forest-labs/flux-1-schnell` (Cloudflare Workers AI) — 4 خطوات
+- الموديل الأصلي: `@cf/black-forest-labs/flux-1-schnell` (Cloudflare Workers AI) بالإعدادات الافتراضية
 - الناتج: 1024×1024 → **Resize 560×560 (LANCZOS)** → **WebP جودة 85**
 - تسمية الملف: **slug الأداة**: `teen-depression-test.webp`
 - مجهد الإنتاج الحقيقي: `/public/images/avatars/`
